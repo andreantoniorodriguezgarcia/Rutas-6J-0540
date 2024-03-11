@@ -22,7 +22,8 @@ samples, guidance on mobile development, and a full API reference.
 
 ![image](https://github.com/andreantoniorodriguezgarcia/Rutas-6J-0540/assets/143548115/7169d8ab-c56a-40dd-b051-4cbd8dbf33f6)
 
-![image](https://github.com/andreantoniorodriguezgarcia/Rutas-6J-0540/assets/143548115/c9fca884-631b-47cb-a7c8-ce83bf757782)
+![image](https://github.com/andreantoniorodriguezgarcia/Rutas-6J-0540/assets/143548115/7f6bd0cf-bb09-41ca-9123-02244ddefb1d)
+
 
 ![image](https://github.com/andreantoniorodriguezgarcia/Rutas-6J-0540/assets/143548115/52903340-1168-41e5-92f7-0bc2a8609998)
 
